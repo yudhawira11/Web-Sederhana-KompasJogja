@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif; /* Mengatur jenis font untuk seluruh halaman */
+    margin: 20px; /* Memberikan margin di sekitar body */
+}
+
+h1 {
+    color: #333; /* Mengatur warna teks untuk elemen h1 */
+}
+
+form {
+    margin-bottom: 20px; /* Memberikan jarak bawah pada form */
+}
+
+input[type="text"] {
+    padding: 10px; /* Memberikan padding di dalam input teks */
+    width: 300px; /* Mengatur lebar input teks */
+}
+
+button {
+    padding: 10px; /* Memberikan padding di dalam tombol */
+}
+
+#result {
+    margin-top: 20px; /* Memberikan jarak atas pada elemen dengan id 'result' */
+}
